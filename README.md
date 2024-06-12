@@ -50,12 +50,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run prepare:data`| Splits your PDF file under the /docs folder into chunks, embeds them, uploads them to Pinecone|
 | `npm run dev`         | Starts the local dev server at `localhost:3000` |
 
-## 🚸 Roadmap
-- ✅ Add sources to the streamed chat bubble
-- 🚧 Clean up and show proper error messages
-- 🚧 Sanitize input and output source documents
-
-## 👏🏽 Contributing
-
-Pull requests are welcome, before creating a PR talk to me on [discord](https://discord.com/channels/1121796870231040020/1156553471881908275). For major changes, please open an issue first
-to discuss what you would like to change.
